@@ -21,4 +21,8 @@ class WeatherViewController: UIViewController {
     }
 
 
+    @IBAction func searchPressed(_ sender: Any) {
+        print(searchTextField.text!)
+    }
+    
 }
