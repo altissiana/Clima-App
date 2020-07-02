@@ -13,6 +13,8 @@
 		D39CCD5124AE48CC00A8FA8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D39CCD4F24AE48CC00A8FA8A /* LaunchScreen.storyboard */; };
 		D39CCD5A24AE49E100A8FA8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D39CCD5924AE49E100A8FA8A /* Main.storyboard */; };
 		D39CCD6024AE4BA600A8FA8A /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39CCD5F24AE4BA600A8FA8A /* WeatherViewController.swift */; };
+		D39CCD6224AE510C00A8FA8A /* dark_background.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D39CCD6124AE510C00A8FA8A /* dark_background.pdf */; };
+		D39CCD6424AE511500A8FA8A /* light_background.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D39CCD6324AE511500A8FA8A /* light_background.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D39CCD5224AE48CC00A8FA8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D39CCD5924AE49E100A8FA8A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		D39CCD5F24AE4BA600A8FA8A /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		D39CCD6124AE510C00A8FA8A /* dark_background.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = dark_background.pdf; sourceTree = "<group>"; };
+		D39CCD6324AE511500A8FA8A /* light_background.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = light_background.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				D39CCD4D24AE48CC00A8FA8A /* Assets.xcassets */,
 				D39CCD4F24AE48CC00A8FA8A /* LaunchScreen.storyboard */,
 				D39CCD5224AE48CC00A8FA8A /* Info.plist */,
+				D39CCD6324AE511500A8FA8A /* light_background.pdf */,
+				D39CCD6124AE510C00A8FA8A /* dark_background.pdf */,
 			);
 			path = Clima;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D39CCD6424AE511500A8FA8A /* light_background.pdf in Resources */,
+				D39CCD6224AE510C00A8FA8A /* dark_background.pdf in Resources */,
 				D39CCD5A24AE49E100A8FA8A /* Main.storyboard in Resources */,
 				D39CCD5124AE48CC00A8FA8A /* LaunchScreen.storyboard in Resources */,
 				D39CCD4E24AE48CC00A8FA8A /* Assets.xcassets in Resources */,
