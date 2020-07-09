@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D33B0AB724B7830D00CD0EF4 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33B0AB624B7830D00CD0EF4 /* WeatherData.swift */; };
 		D36E29F924B5349C00F20936 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36E29F824B5349C00F20936 /* WeatherManager.swift */; };
 		D39CCD4524AE48CC00A8FA8A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39CCD4424AE48CC00A8FA8A /* AppDelegate.swift */; };
 		D39CCD4724AE48CC00A8FA8A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39CCD4624AE48CC00A8FA8A /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D33B0AB624B7830D00CD0EF4 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		D36E29F824B5349C00F20936 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		D39CCD4124AE48CC00A8FA8A /* Clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39CCD4424AE48CC00A8FA8A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				D36E29F824B5349C00F20936 /* WeatherManager.swift */,
+				D33B0AB624B7830D00CD0EF4 /* WeatherData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D39CCD6024AE4BA600A8FA8A /* WeatherViewController.swift in Sources */,
+				D33B0AB724B7830D00CD0EF4 /* WeatherData.swift in Sources */,
 				D39CCD4524AE48CC00A8FA8A /* AppDelegate.swift in Sources */,
 				D36E29F924B5349C00F20936 /* WeatherManager.swift in Sources */,
 				D39CCD4724AE48CC00A8FA8A /* SceneDelegate.swift in Sources */,
